@@ -1,5 +1,8 @@
 # UI-Final-Project
-In this repositry you can add Figma designs and frame works with unique ideas and for inspiration. 
-You have to make sure that the design is working and it will be open sourced to anyone.
-So that if a developer wants to create something he can use your design and frame works as inspiration to get an idea. 
-You guys can collaborate on projects and bring new things to life. 
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
